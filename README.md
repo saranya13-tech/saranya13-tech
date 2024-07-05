@@ -1,7 +1,7 @@
 
 👋 Hi, I’m @saranya13-tech.
 
-🔭 I’m currently working on Techgebra
+🔭 I’m currently working at Exthgen
 
 🌱 I’m currently learning React
 
